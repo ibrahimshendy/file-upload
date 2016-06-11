@@ -3,8 +3,8 @@ Upload Single and Multi Files
 
 ### Visits
 
-![Image](images/img.png)
-(images/img1.png)
+![Single-file-upload](images/img.png)
+![Multi-upload](images/img1.png)
 
 ## Installion Require Bootstrap getbootstrap.com & JQuery File
 Set Css Links In Header .. 
