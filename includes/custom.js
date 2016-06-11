@@ -1,3 +1,7 @@
+/**
+  * @author ibrahim shendy
+  * @copyright ibrahim shendy
+  */
 $(document).ready(function()
 {
 	$('input[id=files-upload]').change(function()

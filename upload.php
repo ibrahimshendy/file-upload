@@ -1,5 +1,8 @@
 <?php
-
+/**
+  * @author ibrahim shendy
+  * @copyright ibrahim shendy
+  */
 $valid_formats = array("jpg", "png", "gif", "zip", "bmp" , "pdf" , "docx" , "txt" , "htm" , "html" , "pptx" , "excl");
 $path = "uploads/"; // Upload File directory
 $count = 0;
