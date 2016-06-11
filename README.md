@@ -1,7 +1,7 @@
 # file-upload
 Upload Single and Multi Files
 
-### Visits
+### Images
 
 ![Single-file-upload](images/img.png)
 ![Multi-upload](images/img1.png)
